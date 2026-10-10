@@ -2,3 +2,5 @@ venv/
 raw/
 .ipynb_checkpoints/
 .env
+processed_comments_labeled/
+*.zip
