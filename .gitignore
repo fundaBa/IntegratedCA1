@@ -4,3 +4,5 @@ raw/
 .env
 processed_comments_labeled/
 *.zip
+processed_comments_labeled/
+*.zip
