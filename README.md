@@ -1,7 +1,7 @@
 # Integrated CA1 – YouTube Comment Reply Prediction
 
 MSc in Data Analytics, CCT College Dublin
-Advanced Data Analytics & Big Data Storage and Processing
+Advanced Data Analysis & Big Data Storage and Processing
 
 ## Project
 Predicting with Neural Networks: Whether a YouTube Comment Receives a Reply within 7 Days and Which Group of Input Features (Comment Text, Video Content or Comment Timing) Contributes Most
